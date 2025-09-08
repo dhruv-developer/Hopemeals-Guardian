@@ -83,6 +83,11 @@ python tools/synth_data.py
 * Frontend: [http://localhost:3000](http://localhost:3000)
 * API Docs: [http://localhost:8000/docs](http://localhost:8000/docs)
 
+## Links
+
+* **Demo Video:** (https://www.loom.com/share/26098928535f446897df80ffa68398c6)
+* **Live Demo:** _[Deployment link coming soon]_
+
 ---
 
 ## Demo Flow
