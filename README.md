@@ -129,10 +129,7 @@ Key references:
 
 1. Create a feature branch.
 2. Update or add documentation alongside code changes.
-3. Run `mkdocs build` locally to validate docs.
-4. Submit PR with Conventional Commit messages.
-
-Refer to [CONTRIBUTING.md](./docs/CONTRIBUTING.md) and [STYLE_GUIDE.md](./docs/STYLE_GUIDE.md).
+3. Submit PR with Conventional Commit messages.
 
 ---
 
