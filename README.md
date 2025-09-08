@@ -70,8 +70,8 @@ Food donation ecosystems are vulnerable to fraud, tampering, and misuse. Hopemea
 
 ```bash
 # Clone repo
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/dhruv-developer/Hopemeals-Guardian.git
+cd Hopemeals-Guardian
 
 # Start backend + frontend
 docker compose up --build
@@ -85,7 +85,7 @@ python tools/synth_data.py
 
 ## Links
 
-* **Demo Video:** (https://www.loom.com/share/26098928535f446897df80ffa68398c6)
+* **Demo Video:** https://www.loom.com/share/26098928535f446897df80ffa68398c6
 * **Live Demo:** _[Deployment link coming soon]_
 
 ---
